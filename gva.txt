@@ -1,0 +1,2 @@
+data,estado,cidade,endereco,mortos,feridos,fonte
+15/02/2019,Paraiba,Joao Pessoa, Bessa,1,0,https://g1.globo.com/pb/paraiba/noticia/2019/02/16/cameras-flagram-assassinato-de-taxista-em-briga-de-transito-de-9-segundos-em-joao-pessoa-video.ghtml?utm_source=facebook&utm_medium=social&utm_campaign=g1&utm_content=post
